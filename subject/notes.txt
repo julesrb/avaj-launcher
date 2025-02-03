@@ -1,0 +1,7 @@
+In Java, in order to ensure a single instantiation of the class, 
+the builder must be private, and the instance must be provided by a static, public method.
+
+
+creational
+structural
+behavioral 
