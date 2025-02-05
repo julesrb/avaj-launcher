@@ -48,6 +48,7 @@ abstract Flyable
 +registerTower(WeatherTower* p_tower)
 }
 
+
 class Helicopter
 {
 +Helicopter(long p_id, string p_name, Coordinates p_coordinate)
