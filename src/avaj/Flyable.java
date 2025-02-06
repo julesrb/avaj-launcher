@@ -2,7 +2,7 @@ package avaj;
 
 abstract class Flyable {
 
-	protected WeatherTower weatherTower;
+	protected static WeatherTower weatherTower;
 
 	public abstract void updateConditions();
 

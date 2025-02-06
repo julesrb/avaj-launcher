@@ -14,6 +14,12 @@ class WeatherProvider {
 
 
 	public String getCurrentWeather(Coordinates p_coordinates) {
-		return "haha";
+		
+		int turbulances = (p_coordinates.getLongitude() *
+							p_coordinates.getLatitude() +
+							p_coordinates.getHeight());
+		turbulances = turbulances < 0 ? turbulances * -1 : turbulances;
+		turbulances = turbulances % 4;
+		return (weather[turbulances]);
 	}
 }

@@ -16,8 +16,6 @@ class AircraftFactory {
 
 
 	public Flyable newAircraft(String p_type, String p_name, Coordinates p_coordinates) {
-		
-		
 		id++;
 		switch (p_type) {
 			case "Baloon":

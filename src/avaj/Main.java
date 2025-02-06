@@ -14,7 +14,6 @@ public class Main {
 		}
 
 		AircraftFactory aircraftFactory = AircraftFactory.getInstance();
-		WeatherProvider weatherProvider = WeatherProvider.getInstance();
 		WeatherTower weatherTower = new WeatherTower();
 		Scenario scenario;
 
