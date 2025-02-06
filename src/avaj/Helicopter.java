@@ -12,22 +12,26 @@ class Helicopter extends Aircraft {
 			case "SUN":
 				coordinates.addLongitude(10);
 				coordinates.addHeight(2);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": i'm burning!");
 				break;
 			case "RAIN":
 				coordinates.addLongitude(5);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": i'm wet!");
 				break;
 			case "FOG":
 				coordinates.addLongitude(1);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": i have brain fog.");
 				break;
 			case "SNOW":
 				coordinates.addHeight(-12);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": i'm santa clauss!");
 				break;
 		}

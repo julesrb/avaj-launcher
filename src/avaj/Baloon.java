@@ -12,22 +12,26 @@ class Baloon extends Aircraft{
 			case "SUN":
 				coordinates.addLongitude(2);
 				coordinates.addHeight(4);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": praise the sun!");
 				break;
 			case "RAIN":
 				coordinates.addHeight(-5);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": :'( !");
 				break;
 			case "FOG":
 				coordinates.addHeight(-3);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": we're lost!");
 				break;
 			case "SNOW":
 				coordinates.addHeight(-15);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": im freezing!");
 				break;
 		}

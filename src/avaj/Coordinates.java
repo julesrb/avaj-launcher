@@ -34,6 +34,8 @@ class Coordinates {
 
 	public void addHeight(int p_height) {
 		this.height += p_height;
+		if (this.height > 100)
+			this.height = 100;
 	}
 
 }

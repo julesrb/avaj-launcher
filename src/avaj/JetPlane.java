@@ -12,22 +12,26 @@ class JetPlane extends Aircraft {
 			case "SUN":
 				coordinates.addLatitude(10);
 				coordinates.addHeight(2);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": my sunglasses!");
 				break;
 			case "RAIN":
 				coordinates.addLatitude(5);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": it's leaking in here");
 				break;
 			case "FOG":
 				coordinates.addLatitude(1);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": im blind!");
 				break;
 			case "SNOW":
 				coordinates.addHeight(-7);
-				// needs to land ?
+				if (this.checkNeedsLanding())
+					return;
 				System.out.println(this.getRef() + ": glaglagla.");
 				break;
 		}
