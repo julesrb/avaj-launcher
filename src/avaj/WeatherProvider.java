@@ -3,17 +3,16 @@ package avaj;
 import java.util.Random;
 
 class WeatherProvider {
-
 	private static WeatherProvider instance = new WeatherProvider();
+	private String[] weather = {"RAIN", "FOG", "SUN", "SNOW"};
+
 
 	private WeatherProvider() {}
+
 
 	public static WeatherProvider getInstance() {
 		return instance;
 	}
-
-	private String[] weather = {"RAIN", "FOG", "SUN", "SNOW"};
-
 
 	public String getCurrentWeather(Coordinates p_coordinates) {
 		

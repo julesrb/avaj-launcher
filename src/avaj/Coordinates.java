@@ -16,26 +16,30 @@ class Coordinates {
 		return longitude;
 	}
 
+
 	public int getLatitude() {
 		return latitude;
 	}
+
 	
 	public int getHeight() {
 		return height;
 	}
 
+
 	public void addLongitude(int p_longitude) {
 		this.longitude += p_longitude;
 	}
 
+
 	public void addLatitude(int p_latitude) {
 		this.latitude += p_latitude;
 	}
+
 
 	public void addHeight(int p_height) {
 		this.height += p_height;
 		if (this.height > 100)
 			this.height = 100;
 	}
-
 }

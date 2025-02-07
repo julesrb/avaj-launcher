@@ -10,3 +10,6 @@ src/avaj/Scenario.java
 src/avaj/Tower.java
 src/avaj/WeatherProvider.java
 src/avaj/WeatherTower.java
+src/avaj/Simulation.java
+src/avaj/ExceptionParsing.java
+src/avaj/ExceptionImpossibeCoordinates.java
