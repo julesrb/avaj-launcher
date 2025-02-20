@@ -7,148 +7,175 @@ Tower says: Helicopter#H3(6) registered to weather tower.
 Tower says: Baloon#B3(7) registered to weather tower.
 Tower says: Helicopter#H4(9) registered to weather tower.
 Baloon#B1(1): :'( !
-Baloon#B2(2): praise the sun!
+Baloon#B2(2): :'( !
 JetPlane#J1(3): it's leaking in here
 Helicopter#H1(4): i'm wet!
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm wet!
+Helicopter#H3(6): i'm santa clauss!
 Baloon#B3(7): :'( !
-Helicopter#H4(9): i'm santa clauss!
-Tower says: Baloon#B1(1) deregistered from weather tower.
-Baloon#B2(2): praise the sun!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
+Baloon#B2(2): we're lost!
+JetPlane#J1(3): my sunglasses!
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i have brain fog.
+Helicopter#H3(6): i'm burning!
+Baloon#B3(7): we're lost!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): :'( !
+Baloon#B2(2): :'( !
 JetPlane#J1(3): glaglagla.
-Helicopter#H1(4): i'm santa clauss!
-Helicopter#H2(5): i'm santa clauss!
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm wet!
 Helicopter#H3(6): i have brain fog.
 Baloon#B3(7): praise the sun!
-Helicopter#H4(9): i'm santa clauss!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
 Baloon#B2(2): :'( !
 JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i'm wet!
+Helicopter#H1(4): i have brain fog.
+Helicopter#H2(5): i'm burning!
+Helicopter#H3(6): i have brain fog.
+Baloon#B3(7): praise the sun!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): :'( !
+Baloon#B2(2): :'( !
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i'm burning!
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm santa clauss!
-Baloon#B3(7): we're lost!
-Helicopter#H4(9): i have brain fog.
+Helicopter#H3(6): i'm burning!
+Baloon#B3(7): praise the sun!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
 Baloon#B2(2): im freezing!
 JetPlane#J1(3): my sunglasses!
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm santa clauss!
-Baloon#B3(7): :'( !
-Helicopter#H4(9): i'm burning!
-Baloon#B2(2): :'( !
-JetPlane#J1(3): im blind!
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i have brain fog.
-Helicopter#H3(6): i'm wet!
-Baloon#B3(7): :'( !
-Helicopter#H4(9): i'm burning!
-Baloon#B2(2): :'( !
-JetPlane#J1(3): my sunglasses!
-Helicopter#H1(4): i'm burning!
-Helicopter#H2(5): i'm burning!
-Helicopter#H3(6): i'm wet!
-Baloon#B3(7): :'( !
-Helicopter#H4(9): i'm burning!
-Baloon#B2(2): :'( !
-JetPlane#J1(3): it's leaking in here
 Helicopter#H1(4): i'm burning!
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm santa clauss!
-Baloon#B3(7): :'( !
-Helicopter#H4(9): i'm burning!
-Baloon#B2(2): :'( !
-JetPlane#J1(3): glaglagla.
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i have brain fog.
+Helicopter#H3(6): i'm wet!
 Baloon#B3(7): :'( !
 Helicopter#H4(9): i'm wet!
-Baloon#B2(2): :'( !
-JetPlane#J1(3): my sunglasses!
-Helicopter#H1(4): i'm burning!
-Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm wet!
-Baloon#B3(7): we're lost!
-Helicopter#H4(9): i'm santa clauss!
+Baloon#B1(1): we're lost!
 Baloon#B2(2): :'( !
 JetPlane#J1(3): it's leaking in here
 Helicopter#H1(4): i'm burning!
+Helicopter#H2(5): i'm santa clauss!
+Helicopter#H3(6): i have brain fog.
+Baloon#B3(7): :'( !
+Helicopter#H4(9): i'm santa clauss!
+Baloon#B1(1): :'( !
+Baloon#B2(2): we're lost!
+JetPlane#J1(3): glaglagla.
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i have brain fog.
+Helicopter#H3(6): i'm santa clauss!
+Baloon#B3(7): :'( !
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
+Baloon#B2(2): :'( !
+JetPlane#J1(3): my sunglasses!
+Helicopter#H1(4): i have brain fog.
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i'm wet!
+Helicopter#H3(6): i'm santa clauss!
+Baloon#B3(7): we're lost!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): :'( !
+Baloon#B2(2): :'( !
+JetPlane#J1(3): my sunglasses!
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i have brain fog.
+Helicopter#H3(6): i have brain fog.
+Baloon#B3(7): :'( !
+Helicopter#H4(9): i have brain fog.
+Baloon#B1(1): praise the sun!
+Baloon#B2(2): :'( !
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm wet!
+Helicopter#H3(6): i'm santa clauss!
 Tower says: Baloon#B3(7) deregistered from weather tower.
 Helicopter#H4(9): i'm burning!
+Baloon#B1(1): :'( !
+Baloon#B2(2): we're lost!
+JetPlane#J1(3): my sunglasses!
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm burning!
+Helicopter#H3(6): i have brain fog.
+Helicopter#H4(9): i'm burning!
+Baloon#B1(1): :'( !
+Baloon#B2(2): praise the sun!
+JetPlane#J1(3): im blind!
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm santa clauss!
+Helicopter#H3(6): i'm santa clauss!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
 Baloon#B2(2): :'( !
-JetPlane#J1(3): glaglagla.
-Helicopter#H1(4): i'm burning!
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i have brain fog.
+Helicopter#H3(6): i'm wet!
+Helicopter#H4(9): i'm santa clauss!
+Baloon#B1(1): :'( !
+Tower says: Baloon#B2(2) deregistered from weather tower.
+JetPlane#J1(3): im blind!
+Helicopter#H1(4): i have brain fog.
 Helicopter#H2(5): i'm wet!
 Helicopter#H3(6): i'm santa clauss!
 Helicopter#H4(9): i have brain fog.
-Baloon#B2(2): im freezing!
+Baloon#B1(1): praise the sun!
 JetPlane#J1(3): my sunglasses!
 Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm burning!
+Helicopter#H2(5): i'm wet!
 Helicopter#H3(6): i'm wet!
 Helicopter#H4(9): i'm wet!
-Tower says: Baloon#B2(2) deregistered from weather tower.
+Baloon#B1(1): praise the sun!
 JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm santa clauss!
-Helicopter#H3(6): i'm burning!
-Helicopter#H4(9): i'm burning!
-JetPlane#J1(3): im blind!
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm burning!
-Helicopter#H3(6): i have brain fog.
-Helicopter#H4(9): i'm burning!
-JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i'm wet!
-Helicopter#H2(5): i'm santa clauss!
-Helicopter#H3(6): i have brain fog.
-Helicopter#H4(9): i'm wet!
-JetPlane#J1(3): my sunglasses!
 Helicopter#H1(4): i'm santa clauss!
-Helicopter#H2(5): i'm santa clauss!
-Helicopter#H3(6): i have brain fog.
-Helicopter#H4(9): i'm burning!
+Helicopter#H2(5): i'm burning!
+Helicopter#H3(6): i'm wet!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
 JetPlane#J1(3): im blind!
 Helicopter#H1(4): i'm wet!
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i have brain fog.
+Helicopter#H3(6): i'm santa clauss!
 Helicopter#H4(9): i'm wet!
-JetPlane#J1(3): my sunglasses!
+Baloon#B1(1): :'( !
+JetPlane#J1(3): it's leaking in here
 Helicopter#H1(4): i'm wet!
 Helicopter#H2(5): i'm wet!
 Helicopter#H3(6): i have brain fog.
 Helicopter#H4(9): i have brain fog.
+Baloon#B1(1): :'( !
 JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i'm burning!
-Helicopter#H2(5): i have brain fog.
+Helicopter#H1(4): i have brain fog.
+Helicopter#H2(5): i'm wet!
+Helicopter#H3(6): i'm santa clauss!
+Helicopter#H4(9): i'm wet!
+Baloon#B1(1): praise the sun!
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm wet!
+Helicopter#H3(6): i'm burning!
+Helicopter#H4(9): i'm wet!
+Tower says: Baloon#B1(1) deregistered from weather tower.
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i have brain fog.
+Helicopter#H2(5): i'm wet!
+Helicopter#H3(6): i have brain fog.
+Helicopter#H4(9): i'm burning!
+JetPlane#J1(3): it's leaking in here
+Helicopter#H1(4): i'm wet!
+Helicopter#H2(5): i'm wet!
 Helicopter#H3(6): i'm wet!
-Helicopter#H4(9): i'm wet!
-JetPlane#J1(3): glaglagla.
-Helicopter#H1(4): i have brain fog.
+Helicopter#H4(9): i'm burning!
+JetPlane#J1(3): my sunglasses!
+Helicopter#H1(4): i'm burning!
 Helicopter#H2(5): i'm wet!
-Helicopter#H3(6): i have brain fog.
+Helicopter#H3(6): i'm wet!
 Helicopter#H4(9): i'm burning!
 JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i'm burning!
-Tower says: Helicopter#H2(5) deregistered from weather tower.
-Helicopter#H3(6): i'm burning!
-Helicopter#H4(9): i have brain fog.
-JetPlane#J1(3): glaglagla.
 Helicopter#H1(4): i'm wet!
-Helicopter#H3(6): i'm burning!
-Helicopter#H4(9): i'm burning!
-JetPlane#J1(3): it's leaking in here
-Helicopter#H1(4): i have brain fog.
-Helicopter#H3(6): i'm burning!
-Helicopter#H4(9): i'm burning!
-JetPlane#J1(3): my sunglasses!
-Helicopter#H1(4): i'm wet!
-Helicopter#H3(6): i'm burning!
-Helicopter#H4(9): i'm burning!
-JetPlane#J1(3): my sunglasses!
-Helicopter#H1(4): i'm burning!
-Helicopter#H3(6): i have brain fog.
+Helicopter#H2(5): i'm wet!
+Tower says: Helicopter#H3(6) deregistered from weather tower.
 Helicopter#H4(9): i'm burning!
