@@ -1,6 +1,6 @@
 # 42 Avaj-Launcher  
 
-**Avaj-Launcher** is a Java project from **42 School** focused on implementing **system design patterns**. It simulates an air traffic control system where different aircraft (balloons, helicopters, and jets) interact with a weather tower.  
+**Avaj-Launcher** is a Java project focused on implementing **system design patterns**. It simulates an air traffic control system where different aircraft (balloons, helicopters, and jets) interact with a weather tower.  
 
 ## Key Concepts  
 - **Observer Pattern** – The weather tower notifies aircraft of changing conditions.  
