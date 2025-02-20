@@ -17,3 +17,4 @@
    ```bash
    git clone <repository-url>
    cd avaj-launcher
+   bash script.sh
